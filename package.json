@@ -1,0 +1,27 @@
+{
+  "name": "certificacao-bootstrap",
+  "version": "1.0.0",
+  "description": "\"# atividade-workflow\"",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bower": "^1.8.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-html-minify": "0.0.14",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffverona/atividade-workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffverona/atividade-workflow/issues"
+  },
+  "homepage": "https://github.com/jeffverona/atividade-workflow#readme"
+}

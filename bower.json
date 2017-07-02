@@ -1,0 +1,22 @@
+{
+  "name": "atividade-workflow",
+  "homepage": "https://github.com/jeffverona/atividade-workflow",
+  "authors": [
+    "Jefferson Verona <jefferson.verona@gmail.com>"
+  ],
+  "description": "atividade workflow para o curso de certificação bootstrap",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "dist"
+  ],
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "bootstrap": "^3.3.7"
+  }
+}
